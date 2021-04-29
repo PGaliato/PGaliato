@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pedro de Souza Galiato
+- 👀 I’m interested in being a developer
+- 🌱 I’m currently learning how to become a full stack developer
+- 💞️ I’m looking to collaborate in the development area
+- 📫 How to reach me pedro_galiato@hotmail.com
